@@ -1,5 +1,0 @@
-langchain-mcp-adapter
-langgraph
-python-dotenv
-langchain-google-genai
-mcp-python-sdk
